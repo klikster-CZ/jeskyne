@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    font-family: "VT323", monospace;
+}
+
+h1 {
+    font-style: oblique;
+    text-align: center;
+    border-radius: 10;
+    background-color: rgba(254, 157, 2, 0.924);
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-style:dotted;
+    border-color: black;
+    color: aliceblue;
+    font-family: "VT323", monospace;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(254, 157, 2, 0.924);
+    border-style: dotted;
+    border-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: "VT323", monospace;
+}
+
+.Menu {
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(254, 157, 2, 0.924) ;
+    border-style: dotted;
+    border-color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "VT323", monospace;
+}
+
+div {
+    border-style: dotted;
+    border-color: black;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: "VT323", monospace;
+}
+a {
+    color: aliceblue;
+    font-size: larger;
+    font-family: "VT323", monospace;
+    text-decoration: none;
+}
+
+.container-1 a {
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: "VT323", monospace;
+}
+
+.container-1 a:hover {
+    background-color: #000000;
+    color: #ff9900;
+}
